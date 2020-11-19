@@ -9,3 +9,5 @@ while i<=10:
         print(i)
         i=i+1
 
+print('done with while loops')
+print('wait what about for loops')
